@@ -34,6 +34,8 @@ If you don't, you can copy this repo in your local environment by following this
 
 4. Complete the Workshops and Exercises in order. 
 
+5. E-portfolio Evidence: Just focus on doing the exercises notebooks and finish as many as you possibly can. Then, write a short 500-1000 word reflection on the course, what you learned, if you finish all exercises, how was it, if you didn’t, why? And this, accompanied by screenshots of your local setup with the exercises. Or, links to the google colab notebooks if you have access to google. 
+
 <br><br>
 
 #### Course Instructor: [Graciela Carrillo](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
