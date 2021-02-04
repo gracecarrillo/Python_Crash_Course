@@ -32,6 +32,8 @@ If you don't, you can copy this repo in your local environment by following this
 
 3. To open the folder with the Workshop and exercise notebooks, you will need an IDE (Integrated Development Environment). There are many popular IDE environments for Python development. I use Visual Studio Code. If you use Windows, you can follow the instructions on how to install VS Code in your laptop or PC [on this link.](https://www.youtube.com/watch?v=-nh9rCzPJ20). Or if you use a Mac, [you can follow this link instead.](https://www.youtube.com/watch?v=06I63_p-2A4).
 
+You also need to install the [Jupyter Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
 4. Complete the Workshops and Exercises in order. 
 
 5. E-portfolio Evidence: Just focus on doing the exercises notebooks and finish as many as you possibly can. Then, write a short 500-1000 word reflection on the course, what you learned, if you finish all exercises, how was it, if you didn’t, why? And this, accompanied by screenshots of your local setup with the exercises. Or, links to the google colab notebooks if you have access to google. 
