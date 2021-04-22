@@ -53,7 +53,7 @@ Once you have finished installing VS Code, you can continue with these instructi
 Make sure you save this folder in a location you will remember. 
 
 <p align="center">
-  <img width="50%" height="50%" src="img\github_download_zip.png">
+  <img width="70%" height="70%" src="img\github_download_zip.png">
 </p>
 
 2. You also need to install the Jupyter Extension to work with the notebooks that we will use during this workshop. These notebooks are called Jupyter notebooks, and they are useful to combine python code and text in the same file. You can learn more about Jupyter noteboooks [by following this link.](https://code.visualstudio.com/docs/python/jupyter-support). 
@@ -61,13 +61,13 @@ Make sure you save this folder in a location you will remember.
 To begin adding the Jupyter Extension to your VS Code IDE, [follow this link.](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter). You will see the following window: 
 
 <p align="center">
-  <img width="50%" height="50%" src="img\jupyter_extension.png">
+  <img width="70%" height="70%" src="img\jupyter_extension.png">
 </p>
 
 Click *Install*. When a pop-up window asks you if you want to open Visual Studio Code, just click the button to open it. This will take you to your VS Code. You will see the following, except that for you, the button will say *Install* instead of *Unistall*, like it does for me.
 
 <p align="center">
-  <img width="50%" height="50%" src="img\jupyter_extension_2.png">
+  <img width="70%" height="70%" src="img\jupyter_extension_2.png">
 </p>
 
 ### Open the materials. 
