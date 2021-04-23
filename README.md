@@ -48,7 +48,7 @@ Once you have finished installing VS Code, you can continue with these instructi
 
 ### Download the materials into your local working environment (fancy way of saying your laptop!). 
 
-1. Download this repo as a zip file, save it in the folder you will be working on, and unzip it. If you're not sure how to do this, see [this resource about how to unzip a file in a Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp2528/mac), and [this resource for Windows.](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=To%20unzip%20files,folder%20to%20a%20new%20location.) 
+1. Download this repository (https://github.com/gracecarrillo/Python_Crash_Course) as a zip file, save it in the folder you will be working on, and unzip it. If you're not sure how to do this, see [this resource about how to unzip a file in a Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp2528/mac), and [this resource for Windows.](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=To%20unzip%20files,folder%20to%20a%20new%20location.) 
 
 Make sure you save this folder in a location you will remember. 
 
