@@ -81,9 +81,7 @@ Happy learning!
 
 ## WHAT TO DO AFTER THE SEMINAR
 
-1. Complete the Workshops and Exercises in order. Do as many as you can 
-
-2. E-portfolio Evidence: Just focus on going through the exercise notebooks and finish as many as you possibly can. Then, write a short 500-1000 words reflection about the course and what you learned. If you finished all exercises, how was it? If you didn’t, why? And this, accompanied by screenshots of your local setup with the exercises.
+1. EVIDENCE FOR E-PORTFOLIO: Complete the Workshops and Exercises in order. Do as many as you can and take screenshots of your local setup with the exercises. You don't have to finish them all, just do as many as you can. You can reflect on your experience doing the exercises in your reflective log for the e-portfolio. 
 
 <br><br>
 
